@@ -9,7 +9,7 @@
 ![Mobile First](https://img.shields.io/badge/mobile--first-8B5CF6)
 ![Offline](https://img.shields.io/badge/100%25_offline-FFB020)
 
-### ▶️ [Open the live prototype](https://zhobbit.github.io/challenge-jovi-lensai/sprint-2/LensAI-Sprint2/)
+### ▶️ [Open the live prototype](https://zhobbit02.github.io/challenge-jovi-lensai/sprint-2/LensAI-Sprint2/)
 
 ![Prototype landing page](docs/sprint-2/screenshots/landing.png)
 
@@ -56,7 +56,7 @@ JOVI asked for a **100% web**, responsive, mobile-first digital solution. The go
 
 ## 🚦 Running the Project
 
-**Online:** the prototype is published at https://zhobbit.github.io/challenge-jovi-lensai/sprint-2/LensAI-Sprint2/ (GitHub Pages).
+**Online:** the prototype is published at https://zhobbit02.github.io/challenge-jovi-lensai/sprint-2/LensAI-Sprint2/ (GitHub Pages).
 
 **Locally:** no build, dependencies or internet needed. Tailwind and the Inter font ship inside the `vendor/` folder.
 
